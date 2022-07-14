@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+
+.card-inner{
+  border: 1px solid #ccc;
+}

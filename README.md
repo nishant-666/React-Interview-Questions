@@ -1,13 +1,15 @@
-# React-Interview-Questions
+# React Interview Questions and Answers(Video Version)
 
 ## This is a curated list of my interview questions on React.
 
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/reactjs-interview-questions/actions).
-
 ### Table of Contents
 
-| No. | Questions                                           |
-| --- | --------------------------------------------------- |
-| 1   | [React Map and Filter Functions](#React-Map-Filter) |
+| No. | Questions                        |
+| --- | -------------------------------- |
+| 1   | [React Map and Filter Functions] |
+| 2   | [What is State in React?]        |
+| 3   | [What are Props in React?]       |
+| 4   | [Inline Conditional Expressions] |
+| 5   | [React Event Handling]           |
 
-## Check my playlist on Youtube - https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp
+### Check my playlist on Youtube [actions tab](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)

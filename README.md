@@ -12,4 +12,4 @@
 | 4   | [Inline Conditional Expressions] |
 | 5   | [React Event Handling]           |
 
-### Check my playlist on Youtube [actions tab](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
+### Check my playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)

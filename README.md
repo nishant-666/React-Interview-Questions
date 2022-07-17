@@ -12,4 +12,6 @@
 | 4   | [Inline Conditional Expressions](https://youtu.be/jL9I9hUfPdg) |
 | 5   | [React Event Handling](https://youtu.be/BA8hrrGXaQs)           |
 
-### Check my playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
+### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
+
+**Note:** This repository and the **Youtube** playlist is still under construction.

@@ -11,6 +11,7 @@
 | 3   | [What are Props in React?](https://youtu.be/6bv82fbumpQ)       |
 | 4   | [Inline Conditional Expressions](https://youtu.be/jL9I9hUfPdg) |
 | 5   | [React Event Handling](https://youtu.be/BA8hrrGXaQs)           |
+| 6   | [Keys in React](https://youtu.be/ofnhwhjdNZI)                  |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

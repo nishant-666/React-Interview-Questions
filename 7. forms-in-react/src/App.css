@@ -1,0 +1,6 @@
+.form {
+  text-align: center;
+  display: grid;
+  gap: 20px;
+  padding: 20px;
+}

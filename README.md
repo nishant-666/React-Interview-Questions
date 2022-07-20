@@ -13,6 +13,7 @@
 | 5   | [React Event Handling](https://youtu.be/BA8hrrGXaQs)           |
 | 6   | [Keys in React](https://youtu.be/ofnhwhjdNZI)                  |
 | 7   | [Forms in React](https://youtu.be/J8dp2T5GdWY)                 |
+| 8   | [Dynamic Inputs in React](https://youtu.be/VEn0aExLN5M)        |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

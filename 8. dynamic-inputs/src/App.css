@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: grid;
+ 
+  gap: 20px;
+  margin-top: 50px;
+}
+
+.input-container{
+  border: 1px solid rgb(154, 154, 154);
+  padding: 10px;
+  margin: 20px;
+}

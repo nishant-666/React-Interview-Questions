@@ -17,6 +17,7 @@
 | 9   | [Stylesheets in React Application](https://youtu.be/F--ek1wQHyY)                       |
 | 10  | [Controlled v/s Uncontrolled Components](https://youtu.be/7GhmY4YsX3c)                 |
 | 11  | [Virtual DOM, How it Works, and Reconciliation in React](https://youtu.be/4ewR-Ii2yWE) |
+| 12  | [React Fragments - Adjacent JSX Elements](https://youtu.be/MY_EiqgIsTk)                |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

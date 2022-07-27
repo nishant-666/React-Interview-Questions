@@ -19,6 +19,7 @@
 | 11  | [Virtual DOM, How it Works, and Reconciliation in React](https://youtu.be/4ewR-Ii2yWE) |
 | 12  | [React Fragments - Adjacent JSX Elements](https://youtu.be/MY_EiqgIsTk)                |
 | 13  | [Stateless v/s Stateful Components in React](https://youtu.be/huZ2UJrHVHM)             |
+| 14  | [API Requests in React](https://youtu.be/oi81mFBqF7Y)                                  |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

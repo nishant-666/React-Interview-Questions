@@ -22,6 +22,7 @@
 | 14  | [Stateless v/s Stateful Components in React](https://youtu.be/huZ2UJrHVHM)             |
 | 15  | [API Requests in React](https://youtu.be/oi81mFBqF7Y)                                  |
 | 16  | [Deboucing in React](https://youtu.be/PVUQMhYTZSY)                                     |
+| 17  | [Context API in React](https://youtu.be/_ch9rb1yvPs)                                   |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

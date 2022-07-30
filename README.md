@@ -23,6 +23,8 @@
 | 15  | [API Requests in React](https://youtu.be/oi81mFBqF7Y)                                  |
 | 16  | [Deboucing in React](https://youtu.be/PVUQMhYTZSY)                                     |
 | 17  | [Context API in React](https://youtu.be/_ch9rb1yvPs)                                   |
+| 18  | [Class v/s ClassNames in React](https://youtu.be/B94M4KCIhZc)                          |
+| 19  | [Higher-Order Components in React](https://youtu.be/_4Aha2Nr-go)                       |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

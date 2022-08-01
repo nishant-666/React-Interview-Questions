@@ -26,6 +26,7 @@
 | 18  | [Class v/s ClassNames in React](https://youtu.be/B94M4KCIhZc)                          |
 | 19  | [Higher-Order Components in React](https://youtu.be/_4Aha2Nr-go)                       |
 | 20  | [Lazy Loading in React](https://youtu.be/F8EG8i2ki8U)                                  |
+| 21  | [Helper Functions in React](https://youtu.be/3bo9TzIYKVs)                              |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

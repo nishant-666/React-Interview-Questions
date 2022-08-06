@@ -29,6 +29,7 @@
 | 21  | [Helper Functions in React](https://youtu.be/3bo9TzIYKVs)                              |
 | 22  | [Recursion in React](https://youtu.be/1Qq_0rJUEos)                                     |
 | 23  | [Function to Run an Array of Functions](https://youtu.be/7NFG8zMlMNA)                  |
+| 24  | [Custom Hooks in React](https://youtu.be/CeJ_quHhVbQ)                                  |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

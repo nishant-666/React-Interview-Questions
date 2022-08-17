@@ -33,6 +33,7 @@
 | 25  | [Promises and Async/Await in React](https://youtu.be/3peb_W_ru1k)                      |
 | 26  | [Code-Splitting in React](https://youtu.be/GF5cqqbHHzU)                                |
 | 27  | [Implementing Search Filter in React](https://youtu.be/inldMpuaA1k)                    |
+| 28  | [Adding TypeScript to React](https://youtu.be/k26IHFhQcSo)                             |
 
 ### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 

@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  cursor: pointer;
+}
+
+li{
+  font-size: 25px;
+}

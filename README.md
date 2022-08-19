@@ -1,6 +1,6 @@
 # React Interview Questions and Answers(Video Version)
 
-## This is a curated list of my interview questions on React.
+## This is a list important topics and interview questions in React, curated by me!
 
 ### Table of Contents
 
@@ -34,7 +34,9 @@
 | 26  | [Code-Splitting in React](https://youtu.be/GF5cqqbHHzU)                                |
 | 27  | [Implementing Search Filter in React](https://youtu.be/inldMpuaA1k)                    |
 | 28  | [Adding TypeScript to React](https://youtu.be/k26IHFhQcSo)                             |
+| 29  | [Writing Unit Tests in a React Application](https://youtu.be/hanU3M0YXRE)              |
+| 30  | [Caching API Calls using React Query](https://youtu.be/hK0l_RbaRE4)                    |
 
-### Check the whole playlist on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
+### Check the whole playlist of 30 Most Asked Interview Questions on [Youtube](https://www.youtube.com/playlist?list=PLWgH1O_994O8weQeHv19cqI3xJEUUFoKp)
 
-**Note:** This repository and the **Youtube** playlist is still under construction.
+<!-- **Note:** This repository and the **Youtube** playlist is still under construction. -->

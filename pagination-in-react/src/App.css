@@ -1,0 +1,36 @@
+.pagination-button {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination-button a {
+    color: #5a5a5a;
+    text-decoration: none;
+    font-family: Inter;
+}
+
+.pagination-button a:hover {
+     color: rgb(66, 101, 12);
+}
+
+.pagination-active a {
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: .05rem solid #000000;
+}
+
+.pagination-active a:hover {
+    background-color: rgb(66, 101, 12);
+     color: white;
+}
+
+ul{
+    width: 500px;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+    margin: 20px;
+}
